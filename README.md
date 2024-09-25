@@ -32,8 +32,9 @@ Defining trigger types and expected counts (conf.triggerTypes), Adjusting epochs
    - elToInt : create a text file "participantCode_EEG1.txt" with the electrodes that need to be interpolated because noisy, broken etc
 
 4. In Prep folder, run each script following the order of their titles (Run1 through Run6). These codes preprocess EEG data by verifying triggers, re-referencing, filtering, interpolating bad channels, running ICA for artifact removal, and epoching the data for further analysis.
-   Run1 bis is optional - here additional behavioural markers are marked on the EEG files.
-   For Run5 - choose the type of ICA rejection algorithm you'd like to use and Run that script only. 
+
+Run1 bis is optional - here additional behavioural markers are marked on the EEG files.
+For Run5 - choose the type of ICA rejection algorithm you'd like to use and Run that script only. 
 
 
 ## CONTACT
