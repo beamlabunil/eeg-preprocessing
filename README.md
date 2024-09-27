@@ -1,10 +1,7 @@
 # SEMI-AUTOMATIC EEG PREPROCESSING PIPELINE
 
 ## DESCRIPTION 
-This README outlines a semi-automatic pipeline customized in MATLAB utilizing scripts from eeglab. The purpose of this pipeline is to automate the ...... 
-
-Features 
-.... 
+This README outlines a semi-automatic pipeline customized in MATLAB utilizing scripts from eeglab. The purpose of this pipeline is to automate the preprocessing of EEG data, streamlining steps such as re-referencing, filtering, interpolation, ICA artifact removal, and epoching. It is designed for studies requiring efficient EEG data preparation while still allowing manual checks and adjustments.
 
 ## SUPPORT 
 
